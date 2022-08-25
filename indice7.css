@@ -1,0 +1,31 @@
+header{
+	text-align: center;
+	font-size: 30px;
+	height: 20%;
+}
+#div1{
+	margin-top: 5%;
+	text-align: center;
+}
+#div2{
+	text-align: center;
+	margin-top: 5%;
+}
+#div3{
+	text-align: center;
+	margin-top: 5%; 
+}
+#div4{
+	text-align: center;
+	margin-top: 50px;
+}
+#valider{
+	height: 50px;
+	width: 130px;
+}
+footer{
+	text-align: left;
+	height: 20%;
+	margin-top: 10%;
+	position: relative;
+}
